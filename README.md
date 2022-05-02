@@ -1,1 +1,5 @@
 # NumericalMethods
+
+- Integration 
+- Differentiation 
+- Interpolation 
